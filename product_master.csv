@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Sub_Category,Unit_Price,Unit_Cost
+P1001,Wireless Earbuds,Electronics,Audio,1299,720
+P1002,Bluetooth Speaker,Electronics,Audio,1799,980
+P1003,Smart Watch,Electronics,Wearables,2999,2050
+P1004,Power Bank,Electronics,Accessories,1199,690
+P1005,USB-C Charger,Electronics,Accessories,899,470
+P1006,Laptop Stand,Electronics,Accessories,1499,820
+P1007,Mechanical Keyboard,Electronics,Computer Accessories,2499,1600
+P1008,Wireless Mouse,Electronics,Computer Accessories,999,520
+P1009,Office Chair,Furniture,Seating,8499,6100
+P1010,Study Table,Furniture,Tables,6999,4850
+P1011,Bookshelf,Furniture,Storage,5499,3600
+P1012,Desk Lamp,Furniture,Lighting,1599,820
+P1013,Notebook Set,Stationery,Writing,399,160
+P1014,Gel Pen Pack,Stationery,Writing,249,90
+P1015,Planner,Stationery,Planning,499,210
+P1016,File Folder Set,Stationery,Office Supplies,349,145
+P1017,Backpack,Lifestyle,Bags,1799,930
+P1018,Travel Mug,Lifestyle,Drinkware,799,390
+P1019,Water Bottle,Lifestyle,Drinkware,699,320
+P1020,Desk Organizer,Lifestyle,Office Supplies,599,280
